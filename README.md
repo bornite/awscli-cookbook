@@ -8,6 +8,8 @@ Requirements
 
 Attributes
 ----------
+* `awscli["config_profiles"]` - Set the contents of `.aws/config` as hash.
+* `awscli["credentials"]` - Set the contents of `.aws/credentials` as hash.
 
 Usage
 -----
