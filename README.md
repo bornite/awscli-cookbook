@@ -26,4 +26,4 @@ Contributing
 
 License and Authors
 -------------------
-Authors: bornite
+Authors: [bornite](https://github.com/bornite)
